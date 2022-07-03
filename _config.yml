@@ -32,7 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
 minima:
-  skin: dark
+  skin: solarized-dark
+
+  social_links:
+    github: WindowsVistaisCool
+    twitter: ""
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
