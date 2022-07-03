@@ -1,8 +1,0 @@
----
-layout: post
-title: wat
-date: 2022-07-03 19:36:51 +0000
-categories: jekyll update
----
-is going on lmao
-
