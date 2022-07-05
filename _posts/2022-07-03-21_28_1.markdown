@@ -1,8 +1,0 @@
----
-layout: post
-title: what are we doing anymoter
-date: 2022-07-03 21:28:14 +0000
-categories: jekyll update
----
-does this work lmao
-
