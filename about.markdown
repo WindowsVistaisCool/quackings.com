@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hi! I'm Kyle Rush, and I'm a high school freshman interested in computer science and software design. I like to program sometimes, and I enjoy a variety of languages including C++, Java, and Python.
+Hi! I'm Kyle Rush, and I'm a high school sophmore interested in computer science and software design. I like to program sometimes, and I know a variety of languages including C++, Java, and Python.
 
 I'm also a programmer [@frc-862](https://lightningrobotics.com)
 
