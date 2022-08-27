@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Welcome to quackings.com!"
-date:   2022-06-14 8:15:57 +0000
-categories: jekyll update
----
-Hi everyone! Thanks for taking the time to visit my personal site, quackings.com! Here you can find information about me, and get to know what I'm doing. This is my first attempt at a blog, so I know it's not good right now, but I hope I can keep it active for a while at least.
-
-[Check out my github!](https://github.com/WindowsVistaisCool)
